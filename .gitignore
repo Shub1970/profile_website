@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+/build_prot
+/react-portfolio-website
 
 # misc
 .DS_Store
