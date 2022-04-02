@@ -3,9 +3,6 @@ import React,{useRef} from 'react'
 import Logos from '../../../assets/images/logo-s.png'
 
 const Logo = () => {
-    const bgRef=useRef();
-    const outlineLogoRef=useRef();
-    const solidLogoRef=useRef();
 
 return (
     <div className="logo-container">
